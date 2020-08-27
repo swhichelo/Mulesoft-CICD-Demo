@@ -38,7 +38,7 @@
                     </sharedLibraries>
                     <cloudHubDeployment>
                         <uri>https://anypoint.mulesoft.com</uri>
-                        <muleVersion>4.1.4</muleVersion>
+                        <muleVersion>4.3.0</muleVersion>
                         <username>steven-whichelo</username>
                         <password>Home32home</password>
                         <applicationName>myCICDapp2020</applicationName>
